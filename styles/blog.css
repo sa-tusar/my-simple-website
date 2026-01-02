@@ -23,3 +23,12 @@
     padding: 20px;
     background: linear-gradient(45deg, rgba(69, 222, 225, 0.5), rgba(0, 91, 8, 0.5));
 }
+
+.blog4{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background: linear-gradient(45deg, rgba(255, 143, 6, 0.5), rgba(255, 59, 34, 0.5));
+}
