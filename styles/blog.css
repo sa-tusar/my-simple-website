@@ -32,3 +32,19 @@
     padding: 20px;
     background: linear-gradient(45deg, rgba(255, 143, 6, 0.5), rgba(255, 59, 34, 0.5));
 }
+
+.blog5{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background: linear-gradient(45deg, rgba(138, 43, 226, 0.5), rgba(75, 0, 130, 0.5));
+}
+
+.blog5 img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
