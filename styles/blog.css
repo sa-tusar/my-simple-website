@@ -1,7 +1,25 @@
-div{
+.blog1{
     width: 80%;
     height: auto;
     margin: auto;
     padding: 20px;
+    background: linear-gradient(45deg, rgb(243, 162, 255), rgb(78, 214, 255));
+}
+
+.blog2{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
     background: linear-gradient(45deg, yellow, green);
+}
+
+.blog3{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background: linear-gradient(45deg, rgba(69, 222, 225, 0.5), rgba(0, 91, 8, 0.5));
 }
